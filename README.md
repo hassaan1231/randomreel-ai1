@@ -1,2 +1,2 @@
-# randomreel-ai1
+# randomreel-ai
 AI-powered Roblox Shorts generator
